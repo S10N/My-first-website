@@ -44,7 +44,7 @@ nav a:hover {
     
 }
 img {
-    width: 100px; height: 100px;
+    width: auto;
 }
 h1 {
     text-align: center;
